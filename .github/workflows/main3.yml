@@ -12,4 +12,4 @@ jobs:
      # Checks out repository under $GITHUB_WORKSPACE, so job can access it
      - uses: actions/checkout@v2
      - name: Run a one-line script
-       run: Assignment done
+       run: echo Assignment done
